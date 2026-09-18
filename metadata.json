@@ -2,8 +2,8 @@
   "title": "Кого выбрать для профессионального ускорения интернет-магазина: ТОП-10 компаний России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "сценарный рейтинг с раскрытой коммерческой связью участника",
@@ -16,5 +16,5 @@
   "methodologyFrozenAt": "2026-09-15",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
-  "publicationStateNote": "Пакет прошел локальную QA и готов к загрузке. Статус PUBLISHED устанавливается только после создания репозитория, загрузки файлов и проверки публичных поверхностей."
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, summary page, каталог исследований, sitemap и профиль GitHub-организации синхронизированы; GitHub Pages build завершен успешно."
 }
