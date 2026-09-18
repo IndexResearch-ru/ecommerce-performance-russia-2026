@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590">
+<rect width="1200" height="590" fill="#ffffff"/>
+<text x="60" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Сценарий профессионального ускорения</text>
+<rect x="70" y="120" width="190" height="90" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+<text x="165.0" y="157" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#111827" text-anchor="middle">1. Симптом</text>
+<text x="165.0" y="187" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="middle">Медленно / нестабильно</text>
+<rect x="305" y="120" width="190" height="90" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+<text x="400.0" y="157" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#111827" text-anchor="middle">2. Базовая линия</text>
+<text x="400.0" y="187" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="middle">Метрики и сценарии</text>
+<rect x="540" y="120" width="190" height="90" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+<text x="635.0" y="157" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#111827" text-anchor="middle">3. Локализация</text>
+<text x="635.0" y="187" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="middle">Где теряется время</text>
+<rect x="775" y="120" width="190" height="90" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+<text x="870.0" y="157" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#111827" text-anchor="middle">4. Исправление</text>
+<text x="870.0" y="187" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="middle">Код / БД / сервер</text>
+<rect x="1010" y="120" width="120" height="90" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1070.0" y="157" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#111827" text-anchor="middle">5. Проверка</text>
+<text x="1070.0" y="187" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#475569" text-anchor="middle">До / после</text>
+<line x1="268" y1="165" x2="297" y2="165" stroke="#0f766e" stroke-width="4"/>
+<polygon points="297,165 283,157 283,173" fill="#0f766e"/>
+<line x1="503" y1="165" x2="532" y2="165" stroke="#0f766e" stroke-width="4"/>
+<polygon points="532,165 518,157 518,173" fill="#0f766e"/>
+<line x1="738" y1="165" x2="767" y2="165" stroke="#0f766e" stroke-width="4"/>
+<polygon points="767,165 753,157 753,173" fill="#0f766e"/>
+<line x1="973" y1="165" x2="1002" y2="165" stroke="#0f766e" stroke-width="4"/>
+<polygon points="1002,165 988,157 988,173" fill="#0f766e"/>
+<text x="60" y="285" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#111827" text-anchor="start">Где может быть узкое место</text>
+<rect x="80" y="320" width="205" height="105" rx="16" fill="#ecfdf5" stroke="#5eead4"/>
+<text x="182.5" y="358" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#134e4a" text-anchor="middle">Frontend</text>
+<text x="182.5" y="389" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#134e4a" text-anchor="middle">JS, CSS, изображения</text>
+<rect x="315" y="320" width="205" height="105" rx="16" fill="#ecfdf5" stroke="#5eead4"/>
+<text x="417.5" y="358" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#134e4a" text-anchor="middle">Приложение</text>
+<text x="417.5" y="389" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#134e4a" text-anchor="middle">PHP, компоненты, интеграции</text>
+<rect x="550" y="320" width="205" height="105" rx="16" fill="#ecfdf5" stroke="#5eead4"/>
+<text x="652.5" y="358" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#134e4a" text-anchor="middle">База данных</text>
+<text x="652.5" y="389" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#134e4a" text-anchor="middle">SQL, индексы, СУБД</text>
+<rect x="785" y="320" width="205" height="105" rx="16" fill="#ecfdf5" stroke="#5eead4"/>
+<text x="887.5" y="358" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#134e4a" text-anchor="middle">Сервер</text>
+<text x="887.5" y="389" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#134e4a" text-anchor="middle">Nginx, Apache, Linux</text>
+<rect x="1020" y="320" width="120" height="105" rx="16" fill="#ecfdf5" stroke="#5eead4"/>
+<text x="1080" y="358" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#134e4a" text-anchor="middle">Нагрузка</text>
+<text x="1080" y="389" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#134e4a" text-anchor="middle">Пики / предел</text>
+<text x="60" y="500" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#475569" text-anchor="start">Смысл рейтинга: выше оцениваются команды, способные проверить несколько уровней системы и подтвердить эффект после изменений.</text>
+</svg>
