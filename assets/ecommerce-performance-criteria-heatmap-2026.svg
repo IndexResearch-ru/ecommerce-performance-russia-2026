@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<rect width="1200" height="850" fill="#ffffff"/>
+<text x="60" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Сравнение участников по критериям</text>
+<text x="362.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C1</text>
+<text x="487.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C2</text>
+<text x="612.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C3</text>
+<text x="737.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C4</text>
+<text x="862.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C5</text>
+<text x="987.5" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="middle">C6</text>
+<text x="285" y="165" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">1. Метод Лаб</text>
+<rect x="302" y="132" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="362.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">30/30</text>
+<rect x="427" y="132" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">18/20</text>
+<rect x="552" y="132" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="612.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="677" y="132" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">14/15</text>
+<rect x="802" y="132" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="862.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">8/10</text>
+<rect x="927" y="132" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="987.5" y="166" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">5/5</text>
+<text x="285" y="221" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">2. Intaro</text>
+<rect x="302" y="188" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="362.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">29/30</text>
+<rect x="427" y="188" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="188" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">16/20</text>
+<rect x="677" y="188" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="188" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="862.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">10/10</text>
+<rect x="927" y="188" width="121" height="52" rx="6" fill="#f1f5f9" stroke="#cbd5e1"/>
+<text x="987.5" y="222" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">1/5</text>
+<text x="285" y="277" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">3. ИНТЕРВОЛГА</text>
+<rect x="302" y="244" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="362.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">27/30</text>
+<rect x="427" y="244" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="244" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/20</text>
+<rect x="677" y="244" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="244" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="862.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">10/10</text>
+<rect x="927" y="244" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="278" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="333" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">4. Ecomtools</text>
+<rect x="302" y="300" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="362.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">24/30</text>
+<rect x="427" y="300" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="300" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="612.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">19/20</text>
+<rect x="677" y="300" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="300" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="862.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">8/10</text>
+<rect x="927" y="300" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="389" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">5. GROTEM</text>
+<rect x="302" y="356" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="362.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">30/30</text>
+<rect x="427" y="356" width="121" height="52" rx="6" fill="#ccfbf1" stroke="#cbd5e1"/>
+<text x="487.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">14/20</text>
+<rect x="552" y="356" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="612.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">19/20</text>
+<rect x="677" y="356" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="356" width="121" height="52" rx="6" fill="#ccfbf1" stroke="#cbd5e1"/>
+<text x="862.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">7/10</text>
+<rect x="927" y="356" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="390" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="445" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">6. KISLOROD</text>
+<rect x="302" y="412" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="362.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">26/30</text>
+<rect x="427" y="412" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="412" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/20</text>
+<rect x="677" y="412" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">14/15</text>
+<rect x="802" y="412" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="862.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">9/10</text>
+<rect x="927" y="412" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="446" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="501" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">7. Braind</text>
+<rect x="302" y="468" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="362.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">24/30</text>
+<rect x="427" y="468" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="468" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">17/20</text>
+<rect x="677" y="468" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="468" width="121" height="52" rx="6" fill="#ccfbf1" stroke="#cbd5e1"/>
+<text x="862.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">6/10</text>
+<rect x="927" y="468" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="502" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="557" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">8. Пятый фактор</text>
+<rect x="302" y="524" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="362.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">23/30</text>
+<rect x="427" y="524" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">20/20</text>
+<rect x="552" y="524" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">16/20</text>
+<rect x="677" y="524" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="737.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">13/15</text>
+<rect x="802" y="524" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="862.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">5/10</text>
+<rect x="927" y="524" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="987.5" y="558" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">5/5</text>
+<text x="285" y="613" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">9. ITSumma</text>
+<rect x="302" y="580" width="121" height="52" rx="6" fill="#ccfbf1" stroke="#cbd5e1"/>
+<text x="362.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">21/30</text>
+<rect x="427" y="580" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">18/20</text>
+<rect x="552" y="580" width="121" height="52" rx="6" fill="#ccfbf1" stroke="#cbd5e1"/>
+<text x="612.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">14/20</text>
+<rect x="677" y="580" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="737.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/15</text>
+<rect x="802" y="580" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="862.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">10/10</text>
+<rect x="927" y="580" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="987.5" y="614" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">2/5</text>
+<text x="285" y="669" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="end">10. Тест-сервис</text>
+<rect x="302" y="636" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="362.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">24/30</text>
+<rect x="427" y="636" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="487.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">18/20</text>
+<rect x="552" y="636" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="612.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">15/20</text>
+<rect x="677" y="636" width="121" height="52" rx="6" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="737.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">8/15</text>
+<rect x="802" y="636" width="121" height="52" rx="6" fill="#99f6e4" stroke="#cbd5e1"/>
+<text x="862.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">8/10</text>
+<rect x="927" y="636" width="121" height="52" rx="6" fill="#5eead4" stroke="#cbd5e1"/>
+<text x="987.5" y="670" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827" text-anchor="middle">5/5</text>
+<text x="60" y="725" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#475569" text-anchor="start">C1 инженерная глубина · C2 e-commerce · C3 производительность · C4 нагрузка · C5 доказательства · C6 прозрачность</text>
+<text x="60" y="758" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#64748b" text-anchor="start">Цвет показывает долю от максимума критерия; число в ячейке – фактически присвоенные баллы.</text>
+</svg>
