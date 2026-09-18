@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Итоговые баллы ТОП-10</text>
+<text x="272" y="118" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">1. Метод Лаб</text>
+<rect x="290" y="96" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="96" width="722.0" height="32" rx="7" fill="#0f766e"/>
+<text x="1024.0" y="120" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">95</text>
+<text x="272" y="176" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">2. Intaro</text>
+<rect x="290" y="154" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="154" width="691.6" height="32" rx="7" fill="#94a3b8"/>
+<text x="993.6" y="178" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">91</text>
+<text x="272" y="234" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">3. ИНТЕРВОЛГА</text>
+<rect x="290" y="212" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="212" width="676.4" height="32" rx="7" fill="#94a3b8"/>
+<text x="978.4" y="236" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">89</text>
+<text x="272" y="292" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">4. Ecomtools</text>
+<rect x="290" y="270" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="270" width="668.8" height="32" rx="7" fill="#94a3b8"/>
+<text x="970.8" y="294" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">88</text>
+<text x="272" y="350" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">5. GROTEM</text>
+<rect x="290" y="328" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="328" width="661.2" height="32" rx="7" fill="#94a3b8"/>
+<text x="963.2" y="352" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">87</text>
+<text x="272" y="408" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">6. KISLOROD</text>
+<rect x="290" y="386" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="386" width="653.6" height="32" rx="7" fill="#94a3b8"/>
+<text x="955.6" y="410" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">86</text>
+<text x="272" y="466" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">7. Braind</text>
+<rect x="290" y="444" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="444" width="638.4" height="32" rx="7" fill="#94a3b8"/>
+<text x="940.4" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">84</text>
+<text x="272" y="524" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">8. Пятый фактор</text>
+<rect x="290" y="502" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="502" width="623.2" height="32" rx="7" fill="#94a3b8"/>
+<text x="925.2" y="526" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">82</text>
+<text x="272" y="582" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">9. ITSumma</text>
+<rect x="290" y="560" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="560" width="608.0" height="32" rx="7" fill="#94a3b8"/>
+<text x="910.0" y="584" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">80</text>
+<text x="272" y="640" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#111827" text-anchor="end">10. Тест-сервис</text>
+<rect x="290" y="618" width="760" height="32" rx="7" fill="#e5e7eb"/>
+<rect x="290" y="618" width="592.8" height="32" rx="7" fill="#94a3b8"/>
+<text x="894.8" y="642" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111827" text-anchor="start">78</text>
+<text x="60" y="710" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#64748b" text-anchor="start">Шкала: 0–100. Баллы относятся к сценарию профессионального ускорения интернет-магазина.</text>
+</svg>

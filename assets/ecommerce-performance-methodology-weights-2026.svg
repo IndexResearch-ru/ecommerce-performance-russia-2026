@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570">
+<rect width="1200" height="570" fill="#ffffff"/>
+<text x="60" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827" text-anchor="start">Веса критериев</text>
+<text x="60" y="123" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C1 · Инженерная глубина: код + БД + сервер</text>
+<rect x="560" y="103" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="103" width="520.0" height="28" rx="6" fill="#0f766e"/>
+<text x="1090.0" y="125" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">30</text>
+<text x="60" y="191" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C2 · Опыт с интернет-магазинами</text>
+<rect x="560" y="171" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="171" width="346.7" height="28" rx="6" fill="#64748b"/>
+<text x="916.6666666666667" y="193" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">20</text>
+<text x="60" y="259" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C3 · Специализация на производительности</text>
+<rect x="560" y="239" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="239" width="346.7" height="28" rx="6" fill="#64748b"/>
+<text x="916.6666666666667" y="261" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">20</text>
+<text x="60" y="327" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C4 · Нагрузочное тестирование и highload</text>
+<rect x="560" y="307" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="307" width="260.0" height="28" rx="6" fill="#64748b"/>
+<text x="830.0" y="329" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">15</text>
+<text x="60" y="395" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C5 · Публичные доказательства</text>
+<rect x="560" y="375" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="375" width="173.3" height="28" rx="6" fill="#64748b"/>
+<text x="743.3333333333334" y="397" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">10</text>
+<text x="60" y="463" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#111827" text-anchor="start">C6 · Прозрачность услуги</text>
+<rect x="560" y="443" width="520" height="28" rx="6" fill="#e5e7eb"/>
+<rect x="560" y="443" width="86.7" height="28" rx="6" fill="#64748b"/>
+<text x="656.6666666666666" y="465" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827" text-anchor="start">5</text>
+<text x="60" y="535" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#64748b" text-anchor="start">Сумма весов = 100.</text>
+</svg>
