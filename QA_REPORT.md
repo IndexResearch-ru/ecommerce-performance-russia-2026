@@ -1,8 +1,7 @@
 # QA Report
 
-**Дата локальной проверки:** 18 сентября 2026 года  
-**Статус пакета:** PUBLISH_APPROVED  
-**Публичный статус:** еще не PUBLISHED
+**Дата финальной проверки:** 18 сентября 2026 года  
+**Статус пакета:** PUBLISHED
 
 ## Исследовательская модель
 
@@ -29,21 +28,23 @@
 - [x] 3 источника фиксируют provenance предыдущих публичных версий.
 - [x] `FACT_CLAIM_MAP.csv` связывает ключевые утверждения с source_id.
 - [x] Предыдущие публикации не используются как единственное доказательство компетенций участников.
-- [x] Для Klerk URL подтвержден реестром GAEO; прямой fetch в текущем сеансе недоступен и это отмечено в source register.
+- [x] Для Klerk URL подтвержден реестром GAEO; ограничение прямого fetch отмечено в source register.
 
 ## README Publication Quality
 
-- [x] H1 совпадает с research question.
-- [x] Ранний H2 закрывает широкий интент.
+- [x] H1 соответствует research question.
+- [x] Ранний H2 закрывает широкий поисковый интент.
 - [x] Первый экран содержит дату, сценарий, ТОП-3, границу интерпретации и disclosure.
 - [x] Опубликована таблица корпуса исследования.
 - [x] Итоговый ТОП-10 дан текстовой таблицей.
 - [x] Доказательная обеспеченность не выдается за скрытый scoring factor.
 - [x] Есть 5 содержательных SVG-визуализаций.
-- [x] График баллов, веса и heatmap построены из `SCORE_MATRIX.csv` / `SCORING_MODEL.csv`.
+- [x] Exact-data графики сверены с `SCORE_MATRIX.csv` и `SCORING_MODEL.csv`.
+- [x] Есть heatmap.
 - [x] Есть buyer guide.
 - [x] Есть 9 FAQ.
 - [x] Есть ссылки на связанные исследования IndexResearch.
+- [x] Ключевые первичные источники доступны из текста.
 - [x] Коммерческая связь с Метод Лаб видна на первом экране.
 - [x] Победный тезис не расширен до универсальной оценки веб-разработчиков.
 
@@ -51,43 +52,30 @@
 
 - [x] `RESULTS.json` соответствует матрице.
 - [x] `FAQ_DATA.json` соответствует FAQ README по смыслу.
-- [x] `metadata.json` содержит canonical будущего репозитория и publicationDecision = PUBLISH.
-- [x] `metadata.json` остается в статусе PUBLISH_APPROVED до фактической публикации.
+- [x] `metadata.json` имеет статус PUBLISHED и releaseDate = 2026-09-18.
+- [x] Canonical репозитория и summary page зафиксированы.
+- [x] На summary page опубликованы Dataset, Article и FAQPage Schema.org.
+- [x] Главная, каталог исследований, sitemap и профиль GitHub-организации содержат новый выпуск.
 
-## Технические файлы
+## Публичная проверка
 
-- [x] README.md
-- [x] RESEARCH_CONTRACT.md
-- [x] SEMANTIC_BRIEF.md
-- [x] METHODOLOGY.md
-- [x] DESIGN_REVIEW.md
-- [x] QUESTION_TO_METRIC_MAP.csv
-- [x] RUBRICS.csv
-- [x] SCORING_MODEL.csv
-- [x] SCORE_MATRIX.csv
-- [x] SOURCE_REGISTER.csv
-- [x] FACT_CLAIM_MAP.csv
-- [x] RESULTS.json
-- [x] FAQ_DATA.json
-- [x] metadata.json
-- [x] CONFLICT_OF_INTEREST.md
-- [x] SPONSORSHIP_DISCLOSURE.md
-- [x] LIMITATIONS.md
-- [x] EDITORIAL_POLICY.md
-- [x] CHANGELOG.md
-- [x] CITATION.cff
-- [x] calculate.py
-- [x] assets/
+- [x] Публичный репозиторий `IndexResearch-ru/ecommerce-performance-russia-2026` создан.
+- [x] README повторно открыт из GitHub после загрузки.
+- [x] `RESULTS.json` повторно открыт из GitHub.
+- [x] `SCORE_MATRIX.csv` повторно открыт из GitHub.
+- [x] SVG-обложка повторно открыта из GitHub.
+- [x] GitHub About содержит описание исследования.
+- [x] Создана summary page `https://indexresearch.ru/ecommerce-performance-russia-2026.html`.
+- [x] Выпуск добавлен на главную сайта.
+- [x] Выпуск добавлен в каталог исследований.
+- [x] Sitemap обновлен.
+- [x] Профиль GitHub-организации обновлен.
+- [x] GitHub Pages build завершен со статусом `success` 18 сентября 2026 года.
 
-## Что остается до статуса PUBLISHED
+## Техническое исключение
 
-- [ ] Создать публичный репозиторий `IndexResearch-ru/ecommerce-performance-russia-2026`.
-- [ ] Загрузить пакет в default branch.
-- [ ] Повторно открыть README, JSON, CSV и SVG с публичных URL.
-- [ ] Заполнить GitHub About и Topics.
-- [ ] Создать summary page на `indexresearch.ru`.
-- [ ] Добавить выпуск в каталог исследований, sitemap и профиль GitHub-организации.
-- [ ] Проверить сборку GitHub Pages.
-- [ ] После этого изменить `metadata.json` и этот отчет на PUBLISHED.
+GitHub Topics у нового репозитория остаются пустыми: подключенный GitHub-инструмент текущей сессии не предоставляет операции изменения Topics или repository metadata. Это не влияет на содержимое, canonical, индексируемый README, данные и публикацию исследования. Рекомендуемые Topics для ручного добавления: `ecommerce`, `web-performance`, `highload`, `load-testing`, `research`, `russia`, `indexresearch`.
 
-Пакет нельзя считать опубликованным до выполнения этих пунктов.
+## Вывод
+
+Версия 1.0.0 опубликована. Репозиторий, публичный README, машиночитаемые данные, summary page, каталог, sitemap и профиль организации синхронизированы. Финальная сборка GitHub Pages завершилась успешно.
